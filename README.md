@@ -1,23 +1,63 @@
-<h1 align="center">Hi 👋, I'm Alejandro Carvajal</h1>
-<h3 align="center">a M2 Master Student in Machine Learning and Data Mining</h3>
+# 👋 Hi, I'm Alejandro Carvajal
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alecamo97" alt="alecamo97" /></a> </p>
+### 🎓 Master's Student in Machine Learning and Data Mining at Jean Monnet University 
+🔍 Passionate about **machine learning**, **deep learning**, and **data analysis**.  
+🚀 Seeking to apply AI and data-driven solutions to solve real-world problems.  
+🌱 Currently exploring **Deep Learning** **Natural Kanguage Processing** and **Data Mining**.
 
-- 🔭 I’m currently working on **Deep Learning Projects**
+---
 
-- 🌱 I’m currently learning **Deep Learning, Natural Language Processing,Big Data**
+## 🛠️ Skills & Technologies
 
-- 📫 How to reach me **alejandroc1103@gmail.com**
+### 💻 Programming Languages:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/alejandrocar03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alejandrocar03" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/alecar03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/alecar03" height="30" width="40" /></a>
-</p>
+### 🧰 Frameworks and Libraries:
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3766AB?style=for-the-badge&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### 📊 Data Visualization:
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power%20bi&logoColor=black)  
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alecamo97&show_icons=true&locale=en&layout=compact" alt="alecamo97" /></p>
+### 🛠️ Tools:
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alecamo97&show_icons=true&locale=en" alt="alecamo97" /></p>
+---
+
+## 🏆 Featured Projects
+
+### 🌾 Weed Detection in Rice Crops using Unmmaned Aerial Vehicles
+- **ML Models:** Random Forest, Supoport Vector Machine, K-Nearest Neighbors.
+- **Data pre-processing:** Binarization, labelling, features calculation, dimensionality and outliers reduction.
+- Achieved 85%-95% accuracy in rice weed detection using drone imagery.  
+- 📂 [Repository Link](https://github.com/alecamo97/Weed-detection-in-rice-crops-using-unmanned-aerial-vehicles)
+
+### 🔍 Comparison of EfficientNet with traditional CNN architectures  
+- **Architectures:** AlexNet, VGGNet, GoogleNet, ResNet, EfficientNet.
+- **Datasets:** CIFAR-100, Oxford Flowers-102, Oxford-IIIT Pet
+- 📂 [Repository Link](https://github.com/alecamo97/Comparison-of-EfficientNet-with-traditional-CNN-architectures)
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alecamo97&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alecamo97&layout=compact&theme=radical)
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: [alejandroc1103@gmail.com](mailto:alejandroc1103@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/alejandrocar03](https://www.linkedin.com/in/alejandrocar03)  
+- 🌐 Portfolio: [GitHub](https://github.com/alecamo97)
