@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Alejandro Carvajal
 
-### 🎓 Master's Student in Machine Learning and Data Mining at Jean Monnet University
-### 🔍 Passionate about Machine Learning, Deep Learning, and Data Analysis.
-### 👨🏻‍💻 Experienced as a Data Analyst and Research Assistant in Machine Learning.
-### 🚀 Seeking to apply AI and data-driven solutions to solve real-world problems.
-### 🌱 Currently exploring Deep Learning, Natural Language Processing, and Data Mining.
+#### 🎓 Master's Student in Machine Learning and Data Mining at Jean Monnet University
+#### 🔍 Passionate about Machine Learning, Deep Learning, and Data Analysis.
+#### 👨🏻‍💻 Experienced as a Data Analyst and Research Assistant in Machine Learning.
+#### 🚀 Seeking to apply AI and data-driven solutions to solve real-world problems.
+#### 🌱 Currently exploring Deep Learning, Natural Language Processing, and Data Mining.
 
 ---
 
