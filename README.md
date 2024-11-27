@@ -47,6 +47,6 @@
 
 ## 📫 Contact Me
 
-- 📧 Email: [alejandroc1103@gmail.com](mailto:alejandroc1103@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/alejandrocar03](https://www.linkedin.com/in/alejandrocar03)  
-- 🌐 Portfolio: [GitHub](https://github.com/alecamo97)
+- 📧 Email: <a href="mailto:alejandroc1103@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" height="40"/></a>  
+- 💼 LinkedIn: <a href="https://www.linkedin.com/in/alejandrocar03"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/></a>
+- 🌐 Portfolio: <a href="https://github.com/alecamo97"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/></a>
